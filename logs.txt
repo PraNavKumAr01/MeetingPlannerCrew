@@ -172,3 +172,7 @@ An autonomous crew is a team of AI-driven agents designed to automate and optimi
 *Recommendation: Implement a continuous learning and improvement plan for the autonomous crew. Regularly review and update its capabilities and functionalities to ensure it remains aligned with the department's evolving needs and objectives.*
 
 Thought: I have compiled all the research findings, industry analysis, and strategic talking points into a concise, comprehensive briefing document for the meeting. The briefing is easy to digest and equips the meeting participants with all necessary information and strategies.2024-04-12 13:58:24: status=completed
+
+
+GROQ_API_KEY = "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"
+EXA_API_KEY = "c7fcdf5e-be80-4ad6-9711-8e2b105a7a4b"
